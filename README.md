@@ -106,6 +106,7 @@ HOG-SVM-light-detection/
 |-- app.py
 |-- requirements.txt
 |-- README.md
+|-- DOC_HIEU_DO_AN_HOG_SVM.md
 |-- GIAI_THICH_THUAT_TOAN_VA_THAM_SO.md
 |-- HUONG_DAN_SU_DUNG_VA_GIAI_THICH.md
 |-- demo/
